@@ -1,6 +1,6 @@
 # vue项目结构
 ## 项目根目录结构
-![vue项目文件夹demo](http://ww4.sinaimg.cn/large/0060lm7Tgw1f9ssmtv2jrj305x0axmxl.jpg)
+![vue项目根目录结构](http://ww4.sinaimg.cn/large/0060lm7Tgw1f9ssmtv2jrj305x0axmxl.jpg)
 
 ::: hljs-center
 
@@ -19,4 +19,4 @@
 
 :::
 ## SRC文件夹结构
-
+![VUE-SRC文件夹结构](http://ww2.sinaimg.cn/large/0060lm7Tgw1f9ssw9zp17j304g058dfv.jpg)
