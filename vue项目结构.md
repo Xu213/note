@@ -1,5 +1,6 @@
 ![vue项目文件夹demo](http://ww4.sinaimg.cn/large/0060lm7Tgw1f9ssmtv2jrj305x0axmxl.jpg)
 
-| 目录/文件 |column2|
-|----------|-------|
-|content1|content2|
+| 目录/文件 | |
+|----------|-|
+|build  |这个是我们最终发布的时候会把代码发布在这里，在开发阶段，我们基本不用管。
+|
