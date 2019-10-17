@@ -1,3 +1,5 @@
+# vue项目结构
+## 项目
 ![vue项目文件夹demo](http://ww4.sinaimg.cn/large/0060lm7Tgw1f9ssmtv2jrj305x0axmxl.jpg)
 
 ::: hljs-center
@@ -16,4 +18,4 @@
 |**README.md**|不用管|
 
 :::
-SRC
+SRC文件夹
