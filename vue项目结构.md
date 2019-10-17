@@ -20,3 +20,6 @@
 :::
 ## SRC文件夹结构
 ![VUE-SRC文件夹结构](http://ww2.sinaimg.cn/large/0060lm7Tgw1f9ssw9zp17j304g058dfv.jpg)
+| **文件(夹)** | |
+| - | - |
+|**assets** |这个是我们最终发布的时候会把代码发布在这里，在开发阶段，我们基本不用管。|
