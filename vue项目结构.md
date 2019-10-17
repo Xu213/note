@@ -22,7 +22,7 @@
 ![VUE-SRC文件夹结构](http://ww2.sinaimg.cn/large/0060lm7Tgw1f9ssw9zp17j304g058dfv.jpg)
 | **目录/文件** | |
 | - | - |
-|**assets** |可以存放页面不会经常修改的静态文件|
-|**commponents** |可以存放页面不会经常修改的静态文件|
-|**assets** |可以存放页面不会经常修改的静态文件|
+|**assets** |存放页面不会经常修改的静态文件|
+|**commponents** |存放组件文件|
+|**App.vue** |项目入口文件|
 |**assets** |可以存放页面不会经常修改的静态文件|
